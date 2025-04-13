@@ -11,8 +11,6 @@ This is a React-based project built using **Vite**, styled with **Tailwind CSS**
 - **44-2**: Created custom navigation and installed Lucide Icons.
 - **44-3**: Implemented dynamic menu toggle and button toggle.
 - **44-4**: Toggle Menu Items and create pricing data (in progress).
-
-### 🔒 Upcoming Lessons
 - **44-5**: Display pricing options using a Pricing Card.
 - **44-6**: Modify components using DaisyUI pricing cards.
 - **44-7**: Add charts to the React app.
@@ -28,7 +26,7 @@ This is a React-based project built using **Vite**, styled with **Tailwind CSS**
 - **Tailwind CSS**
 - **DaisyUI**
 - **Lucide Icons**
-- *(Upcoming)* Axios, Chart.js / Recharts
+- **Axios, Chart.js / Recharts**
 
 ---
 
